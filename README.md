@@ -1,5 +1,7 @@
 # 🚀 Meu Repositório de Conhecimento em Engenharia de Software
 
+![Capa](./.github/Cover.png)
+
 Olá! 👋 Eu sou o **Caio Vinicius**, estudante de Engenharia de Software na Estácio. Este é meu repositório pessoal onde organizo todo o conhecimento que vou adquirindo durante minha jornada acadêmica.
 
 ## 🎯 Por que este repositório existe?
